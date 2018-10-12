@@ -1,7 +1,7 @@
-npm学习
+#npm学习
   在终端输入
-  1.npm install -g how-to-npm
-  2how-to-npm
+  1. npm install -g how-to-npm
+  2. how-to-npm
 
     HOW-TO-NPM
     Select an exercise and hit Enter to begin
