@@ -1,4 +1,4 @@
-#npm学习
+# npm学习
   在终端输入
   1. npm install -g how-to-npm
   2. how-to-npm
